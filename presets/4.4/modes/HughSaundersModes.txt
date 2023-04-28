@@ -1,0 +1,22 @@
+#$ TITLE: Hugh Saunders Mode Preset
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: HughSaunders noob
+#$ AUTHOR: Hugh Saunders
+#$ DESCRIPTION: My modes innit
+
+# aux
+aux 0 0 0 1850 2100 0 0
+aux 1 1 1 900 1250 0 0
+aux 2 13 2 1850 2100 0 0
+aux 3 26 5 1825 2100 0 0
+aux 4 28 1 1825 2100 0 0
+aux 5 31 6 1850 2100 0 0
+aux 6 35 3 1825 2100 0 0
+aux 7 36 4 1825 2100 0 0
+
+# adjrange
+# Choose rate profile with aux
+adjrange 0 0 0 900 2100 12 7 0 0
